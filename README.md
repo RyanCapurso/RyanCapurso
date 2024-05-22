@@ -32,9 +32,6 @@ Sou um Desenvolvedor Backend entusiasmado com Java,também utilizo .Net, atualme
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azure-devops&logoColor=white" alt="Azure DevOps logo" title="Azure DevOps" height="25" />
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" alt="Slack logo" title="Slack" height="25" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />
-
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=RyanCapurso&show_icons=true&locale=en&layout=compact&theme=dark" alt="RyanCapurso" /> </p>
-
 <h2 align="center"> Tecnologias e linguagens que gostaria de aprender:<h2>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Docker logo" title="Docker" height="25" />
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" />
