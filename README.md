@@ -14,7 +14,6 @@ Desenvolvedor backend com forte paixão por Java, com conhecimento em Spring, Ja
   <img src="https://img.shields.io/badge/Quarkus-000000?logo=quarkus&logoColor=white&logoWidth=20" alt="Quarkus logo" title="Quarkus" height="25" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular logo" title="Angular" height="25" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="dotnet logo" title="Dotnet" height="25" />
   
   
 
